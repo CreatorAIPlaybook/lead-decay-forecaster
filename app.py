@@ -443,12 +443,12 @@ st.markdown(
     <div>
       <h3 style="color:#FFFFFF; font-size:1.1rem; font-weight:700; margin:0 0 0.35rem 0;">Stop burning inbound leads.</h3>
       <div style="font-size:0.85rem; color:#b0b0b0; line-height:1.4;">
-        You are paying a massive latency tax. Get the exact 3-step Automated Routing Blueprint to drop your response time under 60 seconds.
+        You are paying a massive latency tax. Join the newsletter to unlock The Vault and get the 3-step Automated Routing Blueprint to drop your response time under 60 seconds.
       </div>
     </div>
   </div>
   <div style="flex-shrink:0;">
-    <a href="#" style="
+    <a href="https://udallerprotocol.com/subscribe" target="_blank" style="
       display:inline-block;
       padding:0.5rem 1rem;
       border-radius:6px;
